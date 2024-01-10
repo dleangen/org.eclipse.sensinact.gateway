@@ -10,6 +10,10 @@
 * Contributors:
 *   Kentyou - initial implementation
 **********************************************************************/
+
+/*********************************************************************
+* Provides a sensiNact OSGi-like API for GeoJSON.
+**********************************************************************/
 @Export
 @Version("0.0.1")
 package org.eclipse.sensinact.gateway.geojson;

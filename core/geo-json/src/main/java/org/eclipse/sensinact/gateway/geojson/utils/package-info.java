@@ -10,6 +10,10 @@
 * Contributors:
 *   Kentyou - initial implementation
 **********************************************************************/
+
+/*********************************************************************
+* Provides a number of utility functions for constructing GeoSJON objects.
+**********************************************************************/
 @Export
 @Version("0.0.1")
 package org.eclipse.sensinact.gateway.geojson.utils;

@@ -10,4 +10,8 @@
 * Contributors:
 *   Kentyou - initial implementation
 **********************************************************************/
+
+/*********************************************************************
+* Internal implementation functions, mainly for serializing GeoJSON objects.
+**********************************************************************/
 package org.eclipse.sensinact.gateway.geojson.internal;
