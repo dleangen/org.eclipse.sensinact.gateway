@@ -9,6 +9,12 @@
 *
 * Contributors: Kentyou - initial implementation
 **********************************************************************/
+
+/*********************************************************************
+* Provides annotations for properties within the sensiNact framework. 
+*
+* @since 0.2.0
+**********************************************************************/
 @org.osgi.annotation.bundle.Export
 @org.osgi.annotation.versioning.Version("0.2.0")
 package org.eclipse.sensinact.core.annotation.propertytype;
