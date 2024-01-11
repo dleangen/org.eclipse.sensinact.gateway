@@ -37,6 +37,9 @@ The bundles referenced in a feature descriptor will be installed into the gatewa
 
 The gateway distribution comes with a number of pre-built features, such as the `core-feature`. Users may add their own features to extend the gateway, either by putting them in the `features` folder, or by adding them to the `repository`. Any additional bundles installed by user features will also need to be available in the `repository`.
 
+[TODO: What is meant by "user feature"?]
+
+
 For more information about features see [here](Launcher.md#the-eclipse-sensinact-gateway-feature-manager).
 
 ### Gateway configuration

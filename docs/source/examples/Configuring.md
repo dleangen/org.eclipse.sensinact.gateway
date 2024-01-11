@@ -12,7 +12,7 @@ The sensiNact configuration file format is described [in detail here](../distrib
 
 ## Adding a Northbound interface
 
-[Northbound interfaces](../northbound/_index.md) are externally facing components that allow users or machines to interact with the gateway. To add one we need to configure the [feature manager](../distribution/Launcher.md#configuring-the-feature-manager) to include the necessary feature(s)
+[Northbound interfaces](../user-guide/interfaces/northbound/index.md) are externally facing components that allow users or machines to interact with the gateway. To add one we need to configure the [feature manager](../distribution/Launcher.md#configuring-the-feature-manager) to include the necessary feature(s)
 
 A clean gateway instance will start with a `configuration.json` containing something similar to the following:
 
@@ -32,7 +32,7 @@ Adding the sensiNact REST interface requires us to install three new features:
 
 1. `jakarta-servlet-whiteboard-feature` - A web container implementing the OSGi<sup>®</sup> servlet whiteboard
 2. `jakarta-rest-whiteboard-feature` - A Jakarta RESTful Web Services whiteboard which uses the servlet whiteboard
-3. `northbound-rest-feature` - The [northbound REST interface](../northbound/RestDataAccess.md) for Eclipse sensiNact.
+3. `northbound-rest-feature` - The [northbound REST interface](../user-guide/interfaces/northbound/rest.md) for Eclipse sensiNact.
 
 These features are added as entries in the `features` array of the `sensinact.launcher` configuration.
 
@@ -73,4 +73,4 @@ Once the configuration is updated and saved the gateway will automatically insta
 curl http://localhost:8082/sensinact
 ```
 
-The full set of endpoints available is listed in the [documentation for the northbound REST interface](../northbound/RestDataAccess.md#available-endpoints). For a guide to using the REST interface you may also wish to look at the [interacting with sensiNact example](Interacting.md).
+The full set of endpoints available is listed in the [documentation for the northbound REST interface](../user-guide/interfaces/northbound/rest.md#endpoints). For a guide to using the REST interface you may also wish to look at the [interacting with sensiNact example](Interacting.md).

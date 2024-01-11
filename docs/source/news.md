@@ -1,10 +1,18 @@
 # What's new?
 
-Since 2022, contributors are working together to prepare the new version of Eclipse sensiNact.
+```{admonition} Note from David
+This section needs some love.
+```
 
-The new version, numbered 0.0.2, changed the threading and interaction models while keeping the core data model.
+As of January 2024...
 
-The legacy sensiNact studio is not supported anymore.
-It will be replaced by a Web UI in a future release.
+sensiNact is still in the Incubation phase. As such, we are working on the basic functionality of the system,
+and the system is not yet ready for the public. For instance, we are seriously lacking documentation.
 
-Currently, the sensiNact applications are not supported, they will be added back in a future release.
+Recently, we launched a new version of sensiNact (v0.0.2).
+While keeping the core data model, the main changes were to the threading and interaction models.
+
+Please note that the legacy version (0.0.1) of sensiNact Studio is no longer supported.
+The plan is to replace it by a Web UI.
+
+Currently, the sensiNact applications are not supported.

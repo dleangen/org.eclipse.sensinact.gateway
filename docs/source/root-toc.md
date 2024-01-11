@@ -1,15 +1,13 @@
 # Table of contents
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 3
 
 index
+license
 news
-setup
-getting-started
-references
-guides
-faq
-code-doc
-EPL-2.0
+getting-started/index
+user-guide/index
+javadoc
+community
 ```
