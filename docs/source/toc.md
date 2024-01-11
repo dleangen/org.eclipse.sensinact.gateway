@@ -5,9 +5,10 @@
 
 index
 license
-news
+announcements
 getting-started/index
 user-guide/index
+developer-guide/index
 javadoc
 community
 ```

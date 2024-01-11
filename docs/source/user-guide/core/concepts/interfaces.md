@@ -1,19 +1,4 @@
-# Essential Concepts
-
-## Digital Twin
-
-A "digital twin" refers to a virtual model or representation of a physical object, process, system, or service.
-This concept is integral to modern IoT systems.
-
-The idea is to have a virtual copy of a physical device within the IoT platform. The digital twin is like a driver;
-it provides methods to access and optionally control the physical device. It also abstracts away much of the complexity
-of the hardware. This approach allows the system to interact with the physical object as it would with any other
-software, by calling well-known methods.
-
-For consistency, sesniNact also uses this well-known idea as a core concept in the platform.
-
-
-## Interfaces
+# Interfaces
 
 There are two interfaces to the sensiNact Gateway: Northbound and Southbound.
 The idea of using a directional analogy has been used commonly in the IoT world for some time.
@@ -26,7 +11,9 @@ south at the bottom.
 At some point, the north/south analogy was used to situate and distinguish two types of services
 in an IoT platform: devices and analytical services.
 
-[TODO: a figure here would be nice]
+:::{admonition} Note from David
+A figure here would be nice.
+:::
 
 Devices provide data to the system, so are generally associated with the low-level layer. Hence,
 "southbound" providers refer to the connection between the platform and the devices that provide

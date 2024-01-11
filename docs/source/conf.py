@@ -27,7 +27,7 @@ release = "0.0.2"
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-root_doc = "root-toc"
+root_doc = "toc"
 
 extensions = ["myst_parser"]
 

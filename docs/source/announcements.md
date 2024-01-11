@@ -1,4 +1,4 @@
-# What's new?
+# Announcements
 
 ```{admonition} Note from David
 This section needs some love.

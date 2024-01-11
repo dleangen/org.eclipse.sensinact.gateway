@@ -15,6 +15,6 @@ The Core provides functions for creating and interacting with the "digital twin"
 ```{toctree}
 :maxdepth: 2
 
-concepts
+concepts/index
 models/Models
 ```
