@@ -15,4 +15,6 @@ Before reading this Developer Guide, we strongly recommend that you read the
 ```{toctree}
 :maxdepth: 4
 :numbered:
+
+contributing
 ```
