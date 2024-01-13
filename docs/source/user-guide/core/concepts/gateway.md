@@ -1,7 +1,6 @@
 # IoT Gateway
 
-An **IoT (Internet of Things) Gateway** serves as a central component in the architecture of IoT ecosystems. It acts as a bridge between IoT devices, such as sensors and actuators, and the network they connect to, typically the Internet or a private network.
-An IoT Gateway is generally considered as being "middleware" in an IoT ecosystem.
+Within a complex [IoT ecosystem](ecosystem.md), an **IoT (Internet of Things) Gateway** serves as a hub. It connects IoT devices, such as sensors and actuators, to the Internet or private networks. Without an Gateway, the Internet of Things would not exist!
 
 :::{admonition} Note from David
 A figure would go nicely here.

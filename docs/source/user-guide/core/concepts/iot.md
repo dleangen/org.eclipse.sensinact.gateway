@@ -1,5 +1,11 @@
 # Internet of Things (IoT)
 
+:::{admonition} Note from David
+This provides a kind of overview.
+Perhaps provide links for further reading?
+Or maybe expand on it, or create a blog in order to have ways of attracting people to the platform?
+:::
+
 The **Internet of Things (IoT)** refers to an expansive network of physical objects — "things" — that are embedded with sensors, software, and other technologies. These elements collaborate for the purpose of connecting and exchanging data with other devices and systems over the Internet. These objects, ranging from ordinary household items to sophisticated industrial tools, are often termed as "smart" devices.
 
 At the core of IoT are **Smart Devices and Sensors**. These devices collect data from their environment, which can include anything from temperature readings and physical movements to geographical positioning and environmental conditions. Examples are as varied as temperature sensors, accelerometers, GPS units, and moisture sensors.

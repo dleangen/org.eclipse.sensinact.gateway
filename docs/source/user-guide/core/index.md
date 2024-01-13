@@ -1,20 +1,17 @@
 # Core
 
 :::{admonition} Note from David
-Whey core? What is the thinking? Core, as opposed to what? Couldn't this have been something else?
+**Why "Core"?** What is the underlying rationale for choosing this terminology? "Core," as opposed to what other aspects or components? Could this section have been named differently to reflect its essence more accurately?
 :::
 
-Essential components of the sensiNact Gateway platform are provided in the Core.
+sensiNact serves as an innovative IoT Gateway, a central technology in the realm of Internet of Things. To gain a comprehensive understanding of its significance and role, we highly recommend starting with the foundational [Essential Concepts](concepts/index.md). This section delves into the fundamental ideas and motivations driving the sensiNact platform.
 
-:::{admonition} Note from David
-Core what??
-:::
+After familiarizing yourself with these basic principles, the next step is to explore the [Core Models](models/index.md). These models are the backbone of the platform, providing the structural framework upon which sensiNact is constructed. They offer insight into the architecture and design decisions that shape the functionality and capabilities of the platform.
 
-The Core provides functions for creating and interacting with the "digital twin" of a device.
 
 ```{toctree}
-:maxdepth: 2
+:hidden:
 
 concepts/index
-models/Models
+models/index
 ```

@@ -1,10 +1,10 @@
 # Data Model
 
-The [sensiNact core data model](../CoreModel.md) defines the high-level concepts of *Resources*, *Services* and *Providers*. These are important parts of sensiNact, and can be extensively customised.
+The [sensiNact core data model](index.md) defines the high-level concepts of *Resources*, *Services* and *Providers*. These are important parts of sensiNact, and can be extensively customised.
 
 ## The Eclipse Modelling Framework (EMF)
 
-EMF is used internally to define the models for objects stored in the sensiNact digital twin. Every Provider instance in the twin has a corresponding EMF model, even if no model is explicitly created or set for the provider. Usually many provider instances will share a single model. For more details about the way EMF is used in sensiNact look [here](EMFModel.md).
+EMF is used internally to define the models for objects stored in the sensiNact digital twin. Every Provider instance in the twin has a corresponding EMF model, even if no model is explicitly created or set for the provider. Usually many provider instances will share a single model. For more details about the way EMF is used in sensiNact look [here](emf-model.md).
 
 The model name for a provider is available as a filterable property with the name `MODEL`, allowing similar devices to be easily selected.
 

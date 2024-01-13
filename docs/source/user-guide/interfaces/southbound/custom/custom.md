@@ -1,6 +1,6 @@
 # Custom Connectors
 
-Building a custom Southbound connector is a relatively simple task, however we recommend that you read about [the sensiNact core model](../../../core/models/CoreModel.md) before you begin. Once you're familiar with the basic concepts of *Provider Models*, *Providers*, *Services* and *Resources* then you're ready to create your own custom connector.
+Building a custom Southbound connector is a relatively simple task, however we recommend that you read about [the sensiNact core model](../../../core/models/things/index.md) before you begin. Once you're familiar with the basic concepts of *Provider Models*, *Providers*, *Services* and *Resources* then you're ready to create your own custom connector.
 
 ## Pushing updates
 

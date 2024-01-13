@@ -1,3 +1,5 @@
+The [Update](threading-model.md#push-based-providers) and [Notification](threading-model.md#notifications) APIs define how event-based updates and notifications can be managed.
+
 # Threading Model
 
 The primary goal of sensiNact is to be a lightweight gateway, capable of providing access to a wide variety of sensors and actuators. In addition a sensiNact gateway may host application code, which runs either in response to data changes, or that can be triggered in some other way.

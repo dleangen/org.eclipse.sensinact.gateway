@@ -8,7 +8,6 @@ a number of fundamental concepts:
 * [IoT Gateway](gateway.md)
 * [Digital Twin](digital-twin.md)
 * [Gateway Interfaces](interfaces.md)
-* [Smart Cities](smart-cities.md)
 
 ```{toctree}
 :maxdepth: 2
@@ -19,5 +18,4 @@ ecosystem
 gateway
 digital-twin
 interfaces
-smart-cities
 ```
