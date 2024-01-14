@@ -1,6 +1,6 @@
 # Models
 
-Like all software systems, sensiNact is based on models. What sets sensiNact apart is that, being a a complex
+Like all good software systems, sensiNact is based on models. What sets sensiNact apart is that, being a a complex
 [IoT Gateway](../concepts/gateway.md), it doesn't rely on just one single model, but rather incorporates a multitude of models.
 These models are foundational to its architecture and functionality.
 
