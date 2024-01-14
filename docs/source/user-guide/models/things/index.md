@@ -141,7 +141,7 @@ The figure below shows the relationship between these components.
 I don't understand the "Model" part, or how it fits into the picture.
 :::
 
-![The sensiNact Data Model](../../../../_static/core/datamodel-white.png){.block-center w=15em}
+![The sensiNact Data Model](../../../_static/core/datamodel-white.png){.block-center w=15em}
 
 
 <!-- Maybe don't need this here?

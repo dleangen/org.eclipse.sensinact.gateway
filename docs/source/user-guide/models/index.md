@@ -19,11 +19,6 @@ to me, makes more sense than a "Core" model. We are not modelling a core, right?
 :::
 
 
-## Threading Model
-
-The [Threading Model](threading-model.md) defines how threading works within the Gateway.
-
-
 ## Metrics Model
 
 Eclipse sensiNact provides services for gathering statistics. The gathered data is based on the
@@ -35,6 +30,5 @@ Eclipse sensiNact provides services for gathering statistics. The gathered data 
 :hidden:
 
 things/index
-threading-model
 metrics
 ```

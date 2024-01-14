@@ -1,6 +1,6 @@
 # Interfaces
 
-There are [two categories of interfaces](../core/concepts/interfaces.md): Northbound and Southbound.
+There are [two categories of interfaces](../concepts/interfaces.md): Northbound and Southbound.
 
 
 ```{toctree}

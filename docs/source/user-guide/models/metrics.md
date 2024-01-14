@@ -1,4 +1,4 @@
-# SensiNact metrics
+# Metrics Model
 
 The Eclipse sensiNact core provides a metrics service to gather statistics about its use.
 The API to access this service is defined in the core API bundle and its implementation is in the core `impl` bundle.
@@ -103,7 +103,7 @@ As a result, if many metrics have to be stored, the operation might impact the m
 You can listen to metrics reports by registering an `IMetricsListener` service.
 The service must implement the `onMetricsReport(BulkGenericDto)` method that will be called after each report generation.
 
-The `BulkGenericDto` provides a list of `GenericDto` objects that represents the resources as defined the [Core metrics section](#sensinact-metrics) and in the [metrics provider description](#note-on-the-metrics-provider).
+The `BulkGenericDto` provides a list of `GenericDto` objects that represents the resources as defined the [Core metrics section] and in the [metrics provider description](#note-on-the-metrics-provider).
 
 ## Store metrics
 

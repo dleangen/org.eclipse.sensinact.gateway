@@ -1,7 +1,7 @@
-# Essential Concepts
+# Core Concepts
 
 To understand the Eclipse sensiNact Gateway platform, it is essential to understand
-a number of fundamental concepts:
+a number of core concepts:
 
 * [The Internet of Things](iot.md)
 * [IoT Ecosystem](ecosystem.md)

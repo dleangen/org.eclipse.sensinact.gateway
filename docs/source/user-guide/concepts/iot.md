@@ -1,4 +1,4 @@
-# Internet of Things (IoT)
+# Internet of Things
 
 :::{admonition} Note from David
 This provides a kind of overview.
