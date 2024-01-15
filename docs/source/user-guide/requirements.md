@@ -13,6 +13,12 @@ I think that would be the best place to have them.
 
 ## Reader Level
 
+:::{admonition} Note from David
+I am not at all satisfied with this section.
+We need to explain, very clearly, who this documentation is for.
+:::
+
+
 This documentation is written for application developers, framework and system service developers (system developers), and
 architects. The purpose is to provide information about what the system is, and how it can be used, as well as
 how to install and operate the system, and how to develop extensions or add-ons.

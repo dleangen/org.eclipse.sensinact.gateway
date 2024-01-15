@@ -6,6 +6,13 @@ Please note that since sensiNact is currently in its incubation phase, the docum
 
 Welcome to the user reference documentation for the Eclipse sensiNact Gateway (sensiNact). sensiNact is a versatile platform designed for the integration, management, and analysis of IoT networks. It offers tools for effective monitoring and controlling a wide range of IoT devices.
 
+:::{admonition} Note from David
+The above intro needs to be consistent with the Welcome Page.
+
+For this, the sensiNact vision needs to be clarified somewhere.
+:::
+
+
 Before getting started, please ensure that you understand the [requirements](requirements.md).
 
 The documentation is divided into 4 sections:

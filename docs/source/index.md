@@ -2,33 +2,37 @@
 
 ![Eclipse sensiNact logo](_static/sensiNact_logo.png){width=120px}
 
-Eclipse sensiNact is an Open Source framework for IoT.
-It's primary purpose is to provide an environment in which heterogeneous devices can exchange information.
+Eclipse sensiNact is an Open Source Gateway framework for Smart Cities.
 
-It is a horizontal platform dedicated to IoT and in particularly used in various smart city and smart home applications.
-Eclipse sensiNact aims at managing IoT protocols and devices heterogeneity and provides synchronous (on demand) and asynchronous (periodic or event based) access to data/actions of IoT devices, as well as access to historic data with generic and easy-to-use API.
+Although sensiNact can be used in various IoT settings, such as smart home applications,
+it is particularly useful for Smart City applications. Our approach to the Internet of Things
+is optimized for the collection, analysis, and visualization of massive quantities of data.
+
+We strive to balance simplicity with practicality. Smart City applications can be very complex,
+so require support of a flexible and dynamic platform; at the same time, the complexity needs to
+be manageable and consumable by people.
+The sheer number and variety of devices also requires a practical means of quickly integrating all sorts
+of data sources.
 
 
-```{admonition} Note from David
-We should consider rewriting the introduction, which is perhaps the most important section of the doc.
-
-We may want to consider explaining:
+:::{admonition} Note from David
+The intro should explain:
  - What is the actual primary purpose of sensiNact?
  - What are the most important secondary goals?
  - Whom is this platform intended for?
  - Why would you want to use it?
  
  And so on.
-```
+:::
 
 
 
 ## Getting Started
 
-```{admonition} Note from David
+:::{admonition} Note from David
 Not sure yet how to organize this part of the doc...
 TBD
-```
+:::
 
 The following examples will help you to quickly get started with the sensiNact gateway:
 
