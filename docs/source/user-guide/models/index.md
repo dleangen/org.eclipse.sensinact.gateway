@@ -34,12 +34,6 @@ also uses the concept of "Things" as a first class citizen.
 :::
 
 
-## Metrics Model
-
-Eclipse sensiNact provides services for gathering statistics. The gathered data is based on the
-[Metrics Model](./metrics.md).
-
-
 ## Metamodel
 
 sensiNact uses a [metamodel](metamodel.md) for managing and communicating digital twins,
@@ -47,10 +41,19 @@ based on our [Things Model](things/index.md).
 
 This means that we have a model for working with models.
 
+
+## Metrics Model
+
+Eclipse sensiNact provides services for gathering statistics. The gathered data is based on the
+[Metrics Model](./metrics.md).
+
+
+
 ```{toctree}
 :maxdepth: 2
 :hidden:
 
 things/index
+metamodel
 metrics
 ```

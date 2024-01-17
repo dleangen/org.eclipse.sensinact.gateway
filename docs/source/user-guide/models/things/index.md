@@ -21,6 +21,13 @@ should not limit our thinking too much.
 The main characteristic of a Thing is that, as a single unit, it has various properties,
 can provide data, and can potentially perform actions.
 
+The sensiNact meaning of a Thing is roughly similar to the
+[Web of Things definition](https://en.wikipedia.org/wiki/Thing_Description).
+
+:::{admonition} Note from David
+So why do we create our own definition?
+:::
+
 Common examples of Things are:
 
  - Smart watches
@@ -63,12 +70,18 @@ A **Data Resource** holds data, and may have zero or more **Metadata Resources**
 Metadata Resources provide information about the Data Resources, such as a timestamp when the
 data was last updated.
 
+:::{admonition} Note from David
+Include an example.
+:::
 
-### Action resources
+### Action Resources
 
 **Action Resources** are similar to data resources, but do not have data that can be queried.
 Instead, Action Resources represent some actuation capability of a device. 
 
+:::{admonition} Note from David
+Include an example.
+:::
 
 ## Service 
 
