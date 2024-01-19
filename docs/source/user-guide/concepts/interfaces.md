@@ -6,7 +6,7 @@ components. To help make sense of the complexity, the components are generally c
 into either "northbound" or "southbound".
 
 Correspondingly, there are two [interfaces](../interfaces/index.md) to the sensiNact Gateway:
-[Northbound](../interfaces/northbound/index.md) and [Southbound](../interfaces/southbound/index.md).
+[Northbound](../interfaces/northbound.md) and [Southbound](../interfaces/southbound/index.md).
 The idea of using a directional analogy has been used commonly in the IoT world for some time.
 
 As illustrated in a typical layered architectural diagram, "low-level" services are drawn below

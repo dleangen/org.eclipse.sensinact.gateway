@@ -44,13 +44,13 @@ You can check the [](./setup.md#installation) section for more options to instal
 
 ### Step 2: configure
 
-[Northbound interfaces](../user-guide/interfaces/northbound/index.md) are externally facing components that allow users or machines to interact with the gateway. To add one we need to configure the [feature manager](../distribution/Launcher.md#configuring-the-feature-manager) to include the necessary feature(s)
+Northbound interfaces are externally facing components that allow users or machines to interact with the gateway. To add one we need to configure the [feature manager](../distribution/Launcher.md#configuring-the-feature-manager) to include the necessary feature(s)
 
 Adding the sensiNact REST interface requires us to install three new features:
 
 1. `jakarta-servlet-whiteboard-feature` - A web container implementing the OSGi<sup>®</sup> servlet whiteboard
 2. `jakarta-rest-whiteboard-feature` - A Jakarta RESTful Web Services whiteboard which uses the servlet whiteboard
-3. `northbound-rest-feature` - The [northbound REST interface](../user-guide/interfaces/northbound/rest.md) for Eclipse sensiNact.
+3. `northbound-rest-feature` - The northbound REST interface for Eclipse sensiNact.
 
 These features are added as entries in the `features` array of the `sensinact.launcher` configuration.
 
@@ -119,7 +119,7 @@ curl http://localhost:8082/sensinact
 curl http://localhost:8082/sensinact/providers/sensiNact/services/system/resources/version/GET
 ```
 
-The full set of endpoints available is listed in the [documentation for the northbound REST interface](../user-guide/interfaces/northbound/rest.md#endpoints). For a guide to using the REST interface you may also wish to look at the [interacting with sensiNact example](../examples/Interacting.md).
+The full set of endpoints available is listed in the documentation for the northbound REST interface. For a guide to using the REST interface you may also wish to look at the [interacting with sensiNact example](../examples/Interacting.md).
 
 
 ## Use the Device Factory to get weather data

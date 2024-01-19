@@ -1,6 +1,7 @@
 # REST API
 
-The northbound REST interface of the Eclipse sensiNact Gateway is a user-facing API designed to fit naturally with the [core model](../../models/things/index.md). The implementation uses Jakarta RESTful Web Services via the OSGi Jakarta REST Whiteboard specification, and follows RESTful principles.
+The northbound REST interface of the Eclipse sensiNact Gateway is a user-facing API designed to fit naturally with the core model.
+The implementation uses Jakarta RESTful Web Services via the OSGi Jakarta REST Whiteboard specification, and follows RESTful principles.
 
 [TODO: What is meant by "user-facing"?]
 
