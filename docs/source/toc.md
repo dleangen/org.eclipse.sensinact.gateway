@@ -5,8 +5,7 @@
 
 index
 license
-announcements
-why-sensinact
+news
 getting-started/index
 user-guide/index
 developer-guide/index
