@@ -11,7 +11,7 @@ In this dynamic and challenging environment, sensiNact stands out as an optimal 
 sensiNact serves as a comprehensive integration hub:
 
 * It integrates massive quantities of disparate data types from virtually any source.
-* It connects a diverse range of [Things](concepts/things.md), enhancing IoT device interaction.
+* It connects a diverse range of [Things](concepts/index.md), enhancing IoT device interaction.
 * It supports a wide array of [IoT protocols](concepts/protocols.md), ensuring seamless communication.
 * It offers flexible and scalable architecture to adapt to evolving Smart City needs.
 * It provides robust data processing and analytics capabilities for actionable insights.

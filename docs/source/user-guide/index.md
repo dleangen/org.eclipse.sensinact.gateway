@@ -21,7 +21,7 @@ If you are itching to just get started, we have a [Quick Start Guide](../getting
 
 A more in-depth [Developer Guide](../developer-guide/index.md) is available as a more technical reference.
 
-## Table of Contents
+## Contents
 
 ```{toctree}
 :maxdepth: 1
@@ -30,9 +30,10 @@ A more in-depth [Developer Guide](../developer-guide/index.md) is available as a
 overview
 requirements
 concepts/index
+comparison
 models/index
 interfaces/index
-extensions/index
+integrations/index
 ```
 
 <!--

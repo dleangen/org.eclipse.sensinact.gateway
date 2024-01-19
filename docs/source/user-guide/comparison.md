@@ -1,4 +1,4 @@
-# Why sensiNact?
+# Comparison
 
 There are a number of IoT platforms available, so why would you want to use sensiNact?
 

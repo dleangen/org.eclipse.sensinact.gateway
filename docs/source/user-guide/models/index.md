@@ -17,7 +17,7 @@ This model is core to the sensiNact platform, and defines how we view the world
 to achieve the objectives of a Smart City IoT Gateway platform.
 
 To understand why we take this approach, you may be interested in our explanation
-to the question: [Why sensiNact?](../../why-sensinact.md)
+[comparison](../comparison.md) to other platforms.
 
 IoT is the Internet of **Things**. These "Things" are modeled by the
 [Things Model](things/index.md).
