@@ -5,9 +5,8 @@ a number of core concepts:
 
 * [The Internet of Things](iot.md)
 * [IoT Ecosystem](ecosystem.md)
-* [IoT Gateway](gateway.md)
-* [Digital Twin](digital-twin.md)
-* [Gateway Interfaces](interfaces.md)
+* [IoT Integration](integration.md)
+* [Data Flow](data-flow.md)
 * [Smart Citites](smart-cities.md)
 
 ```{toctree}
@@ -16,8 +15,7 @@ a number of core concepts:
 
 iot
 ecosystem
-gateway
-digital-twin
-interfaces
+integration
+data-flow
 smart-cities
 ```

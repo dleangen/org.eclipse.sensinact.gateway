@@ -2,6 +2,10 @@
 
 The "**Internet of Things**" (**IoT**) has evolved significantly over the past 20+ years, transitioning from a concept involving interconnected objects to a complex ecosystem encompassing a vast array of technologies, protocols, and data sources.
 
+IoT has evolved so much that some have even coined other terms in an attempt to make the concept more relevant.
+Given that the state of the industry and our understanding of the IoT ecosystem is still in flux, for now we will continue
+to use the term "Internet of Things", but keep in mind that this name may change in the future.
+
 ## Origins
 
 The term "Internet of Things" was originally coined by Kevin Ashton in 1999. Ashton, a British technology pioneer, used the term while working at Procter & Gamble (P&G), and later as a co-founder of the Auto-ID Center at the Massachusetts Institute of Technology (MIT). His vision involved connecting objects through the internet using RFID technology, enabling automatic management and inventory.
