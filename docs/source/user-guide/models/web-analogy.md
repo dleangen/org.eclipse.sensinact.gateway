@@ -1,40 +1,10 @@
-# Things Model
+# Web Analogy
 
-A complex software system that is built and used by many people needs a model in order to make
-its design, operation, and use feasible. The model bridges the domain concepts with the
-software engineering.
+In many respects, sensiNact models the [Internet of Things](../concepts/iot.md)
+similarly to how the Web was conceived.
 
-The [IoT Gateway](../../concepts/gateway.md) is the hub for connecting the "Things"
-in the Internet of Things. sensiNact has its own internal model for representing
-these Things, and how they interact with the Internet via the Gateway.
-
-Consequently, our **Things Model** is a more specific representation of the Internet of Things
-than what you would commonly find in the literature.
-
-## Thing
-
-A **Thing** is a general abstraction for some physical object.
-Usually, this object is a device, or even possibly a group of devices.
-Although a Thing is often a device, it can be almost any "thing", and we
-should not limit our thinking too much.
-
-The main characteristic of a Thing is that, as a single unit, it has various properties,
-can provide data, and can potentially perform actions.
-
-The sensiNact meaning of a Thing is roughly similar to the
-[Web of Things definition](https://en.wikipedia.org/wiki/Thing_Description).
-
-:::{admonition} Note from David
-So why do we create our own definition?
-:::
-
-Common examples of Things are:
-
- - Smart watches
- - Thermometers
- - Light sensors
- - Smart appliances
- - Smart plugs
+The analogy described here is not formally part of the sensiNact model, but we believe that
+it does help to understand the thinking behind the [Provider-Consumer Model](provider-consumer.md).
 
 ## Resource
 

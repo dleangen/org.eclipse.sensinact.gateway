@@ -18,4 +18,5 @@ ecosystem
 integration
 data-flow
 smart-cities
+verticals
 ```

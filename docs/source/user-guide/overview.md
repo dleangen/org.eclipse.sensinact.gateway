@@ -2,7 +2,7 @@
 
 Eclipse sensiNact is an Open Source integration framework for Smart Cities.
 
-Originally conceived as an [IoT Gateway](concepts/gateway.md), sensiNact has evolved beyond the traditional scope of the Internet of Things. Today's IoT ecosystem encompasses a vast array of "things" and generates massive quantities of data. The challenge for Smart City operators is to effectively interpret and utilize this data to enhance the lives of citizens. The technology landscape is complex and often resource-intensive.
+Originally conceived as an IoT Gateway, sensiNact has evolved beyond the traditional scope of the Internet of Things. Today's IoT ecosystem encompasses a vast array of "things" and generates massive quantities of data. The challenge for Smart City operators is to effectively interpret and utilize this data to enhance the lives of citizens. The technology landscape is complex and often resource-intensive.
 
 In this dynamic and challenging environment, sensiNact stands out as an optimal solution for open technology and interoperability.
 

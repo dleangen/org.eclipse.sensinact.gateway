@@ -39,7 +39,7 @@ On the other end are Information Consumers, which utilize the data provided for 
 - **Smart Applications**: Ranging from home automation to sophisticated industrial control systems.
 
 Although Information Consumers can themselves provide information to other consumers, generally speaking
-from the perspective of an IoT [Integration Platform](integration-md) we categorize them into Providers
+from the perspective of an IoT [Integration Platform](integration.md) we categorize them into Providers
 if they are sources of data from the perspective of the platform, and Consumers if they are plugging into
 the platform and using data.
 
